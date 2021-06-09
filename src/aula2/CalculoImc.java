@@ -38,6 +38,7 @@ public class CalculoImc {
 		}
 		else {
 			System.out.println("O seu IMC e "+ IMC +"Você está com Obesidade  Grau III");	
+			
 		}
 	}
 
